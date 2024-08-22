@@ -1,6 +1,8 @@
 # haskell160824
 Práctica 1. Estructuras Discretas
-Para evitar hacer 8 programas muy cortos, añadí todas las funciones en un solo documento. De igual forma, las funciones estan declaradas como las marca la práctica:
+José María Hernández Pérez
+Aldo Enrique Yañez Enriquez
+Para evitar hacer 8 programas muy cortos, añadimos todas las funciones en un solo documento. De igual forma, las funciones estan declaradas como las marca la práctica:
 1. distanciaPuntos
 2. hipotenusa
 3. pendiente
